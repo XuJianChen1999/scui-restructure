@@ -2,7 +2,8 @@
 
 
 ## Customary
-代码原仓库：scui原仓库代码(https://gitee.com/lolicode/scui)
+代码原仓库：scui原仓库代码 (https://gitee.com/lolicode/scui)
+预览地址：在线预览地址 (https://lolicode.gitee.io/scui-doc/demo/#/dashboard)
 
 ## Different
 1. 与原版不同的是，本次重构采用了setup语法 + hooks + pinia
