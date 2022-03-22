@@ -1,0 +1,15 @@
+/* 路由主视图过渡动画 */
+.fade-transform-enter-active,
+.fade-transform-leave-active {
+  transition: all .5s;
+}
+
+.fade-transform-enter-from {
+  opacity: 0;
+  transform: translateX(-30px)
+}
+
+.fade-transform-leave-to {
+  opacity: 0;
+  transform: translateX(30px)
+}
