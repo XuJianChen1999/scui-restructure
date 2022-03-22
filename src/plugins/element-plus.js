@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-10 10:03:36
  * @LastEditTime: 2022-03-10 10:05:46
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 全局注册element-plus组件
  */
 import {ElButton} from 'element-plus'

@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-10 16:37:29
  * @LastEditTime: 2022-03-16 10:59:04
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 二次封装axios
  */
 import instance from 'axios'

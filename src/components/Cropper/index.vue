@@ -1,8 +1,8 @@
 <!--
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-15 17:32:07
  * @LastEditTime: 2022-03-17 08:55:39
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 图像裁剪组件
 -->
 <template>

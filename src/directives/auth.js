@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-14 14:47:59
  * @LastEditTime: 2022-03-21 09:25:55
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 当前元素是否有某个权限
  */
 import {permission} from '@/utils/permission'

@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-22 09:36:04
  * @LastEditTime: 2022-03-22 15:35:40
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: scui原版中dic、role、user很多方法、变量重复的，可以使用一个hook进行逻辑提取，这也是vue3的一个优势，代码清晰明了
  */
 import {ref} from 'vue'

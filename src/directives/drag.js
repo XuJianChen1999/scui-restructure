@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-11 09:55:05
  * @LastEditTime: 2022-03-11 10:03:55
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 拖拽指令
  */
 function drag(el) {

@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-10 15:20:41
  * @LastEditTime: 2022-03-10 15:24:03
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 系统级基本路由
  */
 import config from '@/config'

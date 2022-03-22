@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-10 11:44:55
  * @LastEditTime: 2022-03-10 11:44:55
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 检查变量类型
  */
 const toString = Object.prototype.toString

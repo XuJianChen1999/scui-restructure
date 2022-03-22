@@ -1,8 +1,8 @@
 <!--
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-14 16:44:21
  * @LastEditTime: 2022-03-19 11:16:41
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: Echarts组件。并不推荐把他注册为全局组件，这样回导致全局app实例过于庞大，每次刷新都会执行main.js，推荐使用异步组件
 -->
 <template>

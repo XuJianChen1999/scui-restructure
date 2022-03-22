@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-15 08:58:41
  * @LastEditTime: 2022-03-15 15:28:29
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: TableSelect组件hooks，单独抽离，方便后期维护管理
  */
 import {ref, onMounted, nextTick} from 'vue'

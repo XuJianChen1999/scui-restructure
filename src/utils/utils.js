@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-10 11:37:32
  * @LastEditTime: 2022-03-22 17:17:34
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 工具集
  */
 import CryptoJS from 'crypto-js'

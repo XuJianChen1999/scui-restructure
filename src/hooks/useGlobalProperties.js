@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-10 11:03:41
  * @LastEditTime: 2022-03-11 10:21:34
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 通过hooks获取全局app实例对象
  */
 import {getCurrentInstance} from 'vue'

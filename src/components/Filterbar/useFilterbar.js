@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-15 15:21:15
  * @LastEditTime: 2022-03-15 16:06:41
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: Filterbar组件hook
  */
 import {ref, computed, nextTick, onMounted} from 'vue'

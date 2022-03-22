@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-10 09:36:41
  * @LastEditTime: 2022-03-10 10:10:13
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: vue全局配置（webpack5）
  */
 const {defineConfig} = require('@vue/cli-service')

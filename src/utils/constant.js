@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-10 10:23:33
  * @LastEditTime: 2022-03-22 16:41:33
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 集中管理常量
  */
 export const baseName = 'SCUI_RESTRUCTURE'

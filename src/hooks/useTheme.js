@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-14 15:37:41
  * @LastEditTime: 2022-03-14 15:41:05
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 监听切换主题，设置样式
  */
 import {ref, watch} from 'vue'

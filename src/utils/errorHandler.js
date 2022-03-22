@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-10 10:31:23
  * @LastEditTime: 2022-03-10 17:13:36
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 全局代码错误捕捉
  */
 export default (error, vm)=>{

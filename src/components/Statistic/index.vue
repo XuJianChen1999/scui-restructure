@@ -1,8 +1,8 @@
 <!--
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-14 17:08:37
  * @LastEditTime: 2022-03-14 17:18:57
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 统计数值组件
 -->
 <template>

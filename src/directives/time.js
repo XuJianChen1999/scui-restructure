@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-21 08:45:48
  * @LastEditTime: 2022-03-21 08:52:16
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: v-time全局指令
  */
 import {dateFormat, getFormateTime} from '@/utils/date'

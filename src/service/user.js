@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-10 16:59:15
  * @LastEditTime: 2022-03-21 10:53:40
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 用户模块请求
  */
 import request from './request'

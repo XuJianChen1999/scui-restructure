@@ -1,8 +1,8 @@
 <!--
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-14 16:21:15
  * @LastEditTime: 2022-03-14 16:27:01
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 趋势标记
 -->
 <template>

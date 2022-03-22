@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-10 11:08:45
  * @LastEditTime: 2022-03-17 10:47:26
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 集中处理本地缓存
  */
 import {TOKEN, USER_INFO, MENU} from '@/utils/constant'

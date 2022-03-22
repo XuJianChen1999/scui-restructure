@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-21 08:52:55
  * @LastEditTime: 2022-03-21 08:57:51
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 全局copy指令
  */
 import {ElMessage} from 'element-plus'

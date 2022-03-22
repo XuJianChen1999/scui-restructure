@@ -1,8 +1,8 @@
 <!--
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-17 10:13:07
  * @LastEditTime: 2022-03-17 10:35:46
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 水印组件
 -->
 <template>

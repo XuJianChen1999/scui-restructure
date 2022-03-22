@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-15 17:10:40
  * @LastEditTime: 2022-03-15 17:11:51
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 上传配置
  */
 import {uplaodFile} from '@/service/file'

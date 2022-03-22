@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-10 16:42:49
  * @LastEditTime: 2022-03-10 16:44:00
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 重写element-plus的ElMessage组件防止重复点击重复弹出message弹框
  */
 import {ElMessage} from 'element-plus'

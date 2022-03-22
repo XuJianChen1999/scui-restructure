@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-10 10:22:03
  * @LastEditTime: 2022-03-22 16:41:49
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 默认配置项
  */
 // import {getItem} from '@/utils/local'

@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-22 10:57:36
  * @LastEditTime: 2022-03-22 11:02:32
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 监听屏幕变化
  */
 import {ref, onMounted, onUnmounted, onDeactivated} from 'vue'

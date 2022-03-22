@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-17 09:55:53
  * @LastEditTime: 2022-03-17 10:10:29
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 打印方法
  */
 const Print = function(dom, options) {

@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-14 10:18:45
  * @LastEditTime: 2022-03-14 10:22:05
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 是否有xxx权限, 暂时不对传入的值做类型判断
  */
 import {getItem} from './local'

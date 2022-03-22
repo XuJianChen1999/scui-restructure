@@ -1,8 +1,8 @@
 /*
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-16 14:29:14
  * @LastEditTime: 2022-03-16 15:18:12
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: cron规则生成器hook
  */
 import {ref, watch, computed, onMounted} from 'vue'

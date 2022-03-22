@@ -1,8 +1,8 @@
 <!--
- * @Author: 徐建辰
+ * @Author: xjc
  * @Date: 2022-03-16 09:58:00
  * @LastEditTime: 2022-03-16 11:11:42
- * @LastEditors: 徐建辰
+ * @LastEditors: xjc
  * @Description: 异步选择器
 -->
 <template>
