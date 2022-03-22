@@ -1,6 +1,8 @@
 # scui 重构版
 
 
+## 感谢scui的开源，本项目是在原有基础上的重构，原仓库代码在下方链接
+
 ## Customary
 1. 代码原仓库：scui原仓库代码 (https://gitee.com/lolicode/scui)
 2. 预览地址：在线预览地址 (https://lolicode.gitee.io/scui-doc/demo/#/dashboard)
